@@ -1,0 +1,22 @@
+_repo: The-American-Union-Speaker_7211
+creator:
+  author:
+    agent_name: Philbrick, John D. (John Dudley)
+    birthdate: 1818
+    deathdate: 1886
+    gutenberg_agent_id: '2374'
+    url: http://www.gutenberg.org/2009/agents/2374
+description: ''
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7211'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Recitations'
+title: The American Union Speaker
+url: http://www.gutenberg.org/ebooks/7211
